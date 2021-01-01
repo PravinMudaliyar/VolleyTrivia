@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VolleyTriviaApp</string>
+    <string name="trivia_textView">TRIVIA</string>
+    <string name="true_button">true</string>
+    <string name="false_button">false</string>
+    <string name="next_image_button">next</string>
+    <string name="restart_image_button">restart</string>
+    <string name="current_score">current score</string>
+    <string name="correct_answer">correct</string>
+    <string name="wrong_answer">wrong</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/berkshire_swash</item>
+        <item>@font/bungee_shade</item>
+        <item>@font/caesar_dressing</item>
+        <item>@font/calligraffitti</item>
+        <item>@font/creepster</item>
+        <item>@font/dr_sugiyama</item>
+        <item>@font/fascinate_inline</item>
+    </array>
+</resources>
